@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.mossin.com.menudibujos.app.MainActivity" >
+    
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/opcion1"
+        android:title="@string/item1"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/opcion2"
+        android:title="@string/item2"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/opcion3"
+        android:title="@string/item3"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+</menu>

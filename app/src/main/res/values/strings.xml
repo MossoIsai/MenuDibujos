@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MenuDibujos</string>
+    <string name="action_settings">Settings</string>
+    <string name="mensaje">Hola Bienvenid@ a  mi Aplicación</string>
+    <string name="item1">Animacion_caballo</string>
+    <string name="item2">Animacion_Sonido</string>
+    <string name="item3">Dibujo</string>
+    <string name="title_activity_caballo">Caballo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sonido">Sonido</string>
+    <string name="title_activity_dibujo">Dibujo</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="parar">Detener</string>
+
+</resources>
